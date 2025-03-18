@@ -10,7 +10,7 @@ Deploy a basic web application using Kubernetes. The app will display a "Hello, 
 
 ---
 
-## ⚡**Step 1: Install `kubectl` and Minikube**
+## **Step 1: Install `kubectl` and Minikube**
 
 ---
 
